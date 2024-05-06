@@ -11,10 +11,7 @@ footnotes = "**Quellen:**\n\n<https://www.unicef.ch/de/unsere-arbeit/schweiz-lie
 
 ## **Ist die psychische Gesundheit von Jugendlichen in der Schweiz in Gefahr? Psychologen und Psychologinnen in der Schweiz sind alarmiert. Was kann dagegen unternommen werden?**
 
-{{</lead>}}
-
-\
-\
+{{</lead>}}\
 **Irini Gayed, Aline Bouquet**
 
 «Es ist schon manchmal Bedenken im Raum wie entwickeln sich diese jugendlichen Kinder dann weiter ins Erwachsenenalter. Wie gut kommen sie später klar?» so Dr. med. Verena Amrein-Zürcher, Fachärztin FMH für Kinder- und Jugendpsychiatrie und -psychotherapie, auf die Frage, wie sie die Zukunft der Betroffenen sieht, als wir sie in ihrem gemütlich eingerichteten Haus in einem ruhigen Quartier in Bern besuchen. Grund zu solch einer Aussage hat sie allemal, denn psychische Krankheiten entstehen oft im jungen Alter; viele Betroffene haben schlechte Kindheitserfahrungen gemacht. 
@@ -49,8 +46,6 @@ Die Fachärztin FMH für Kinder- und Jugendpsychiatrie und -psychotherapie Dr. 
 
 {{</box>}}
 
-
-
 Laura K. erzählt uns weiter, dass sie gute sowie schlechte Erfahrungen gemacht habe. «Es kommt ganz darauf an, wo man gewesen ist.» Es gebe grosse Unterschiede zwischen beispielsweise verschiedenen Standorten der UPD, die Aussenstandorte seien besser als die auf dem UPD-Gelände in Bern.
 
 Bekannten, welche auf dem UPD-Gelände in Bern waren, habe Laura K. erfahren, dass es Momente gab, in denen Informationen nicht vertraulich behandelt wurden und zum Beispiel Eltern informiert wurden, welche nicht hätten informiert werden sollen. Auch war unsensibel und ungeschickt mit Patienten und Patientinnen umgegangen worden und aus Fachpersonenmangel und somit aus zeitlichem Stress stellte das Fachpersonal manchmal Fehldiagnosen auf. 
@@ -73,15 +68,11 @@ Eine weitere von uns befragte Person schildert ähnliche Muster in dem klar übe
 
 Ausserdem erfahren wir von Marie S., dass sie mit der Hilfe, die ihr die Psychiatrie sowohl ambulant als auch stationär zur Verfügung, stellte grundsätzlich zufrieden ist, jedoch merkte auch sie die Überlastung und teils nicht oder nicht genügend ausgebildetes Personal: «Es war nicht immer alles perfekt und sie wussten nicht immer wie reagieren und handeln, aber im Grossen und Ganzen fand ich die Hilfe schon gut.» Ebenfalls erzählt sie uns, dass die Motivation des Personals für sie einen grossen Unterschied macht, so gäbe es Therapeuten und Therapeutinnen, die «ihrem Job wirklich leidenschaftlich nachgehen und einem auch wirklich helfen wollen» und solche, die «es nur als Job sehen und deswegen auch nicht wirklich mit den Patienten und Patientinnen interagieren und einfach da sind \[…] man spürt einen Unterschied, ob es jemand aus Hilfsbereitschaft macht oder es nur als Job sieht.» 
 
-
-
 ## Die Rolle der Schule
 
 «Ich glaube es ist halt sehr unterschiedlich, wie ich das auch aus meiner Perspektive erlebe. Ich glaube es gibt da sehr viele sehr bemühte Lehrkräfte aber grundsätzlich schon, aber das ist ja nicht nur die Schule, das ist ja auch die Gesellschaft, die das fordert und viele Eltern, die das fordern», so Dr. med. Verena Amrein-Zürcher auf die Frage, ob die Schule zu viel Druck auf die Jugendlichen ausübt. Diese Unterschiede werden von unseren beiden Betroffenen Laura K. und Marie S. bestätigt, denn Laura K. berichtet von sowohl unterstützenden wie aber auch von diskriminierenden Lehrpersonen. Sie erklärt, dass die meisten Lehrkräfte von ihr unterstützend seien und nicht noch mehr unnötigen Druck ausüben, jedoch Personen in höheren Positionen, wie zum Beispiel die Abteilungsleitung, machen viel Druck wegen Absenzen.
 
 «Wenn das die Schulleitung weiss, dann schaut sie auch, dass es den Schülern und Schülerinnen gut geht», meldet Marie S. zu diesem Punkt. Sie geht an ein anderes Gymnasium als Laura K. und macht dadurch auch eine andere Erfahrung, wie eben, dass die Schulleitung unterstützend sei und keinen zusätzlichen Druck ausübe.  
-
-
 
 ## Was nun?
 
