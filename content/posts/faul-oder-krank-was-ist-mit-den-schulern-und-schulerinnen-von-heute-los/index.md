@@ -31,17 +31,13 @@ Unicef-Schweiz berichtet, dass dies zudem Folgen auf das Suchtverhalten der Juge
 
 ![Dr. med. Verena Amrein-Zürcher, Abbildung 2](verenaamrein-zuercher_800x800_anders_stoos.jpg)
 
-![Verena Amrein-Zürcher – famkij](blob:https://stirring-seahorse-90ee56.netlify.app/02cb1221-9e07-4daa-b661-d3920fd5d13c)![Textfeld: Dr. med. Verena Amrein-Zürcher
-Abbildung 2
-](blob:https://stirring-seahorse-90ee56.netlify.app/0863d409-a53d-454e-bb6c-dd922cb09610)
-
 «Es ist alles überlastet, ich habe täglich Anfragen, oft mehrere am Tag und ich kann vielleicht ein bis zwei Neuaufnahmen pro Monat nehmen, da kann man sich etwa vorstellen wie viele, dass da am Suchen sind.» 
 
 \-Dr. med. Verena Amrein-Zürcher
 
 {{<box>}}
 
-Die Fachärztin FMH für Kinder- und Jugendpsychiatrie und                -psychotherapie Dr. med. Verena Amrein-Zürcher, welche momentan in der Gruppenpraxis famkij für Familien-, Kinder- und Jugendpsychologie arbeitet, war zuvor zehn Jahre lang Oberärztin am Ambulatorium des KJPD in Solothurn.
+Die Fachärztin FMH für Kinder- und Jugendpsychiatrie und -psychotherapie Dr. med. Verena Amrein-Zürcher, welche momentan in der Gruppenpraxis famkij für Familien-, Kinder- und Jugendpsychologie arbeitet, war zuvor zehn Jahre lang Oberärztin am Ambulatorium des KJPD in Solothurn.
 
 {{</box>}}
 
@@ -63,21 +59,21 @@ Das Bundesamt für Statistik schreibt, dass im Jahr 2021 die Zahl der stationär
 
 Wir fragen Laura K., was sie als Haupttreiber der steigenden psychisch erkrankten Jugendlichen sieht und auch sie sieht soziale Medien, Suchtmittel und Corona als Treiber, allerdings nimmt sie schlechte Familienverhältnisse als den grössten Problemfaktor war. Sie sagt, dass die Corona Lockdowns vielleicht auch etwas Gutes bewirkt haben, denn während dieser Zeit waren Jugendliche von den Problemen in der Familie so stark betroffen, was möglicherweise dazu führte, dass sich einige Hilfe holten, weil für sie eine Grenze überschritten wurde. 
 
-![Anstieg von drei Prozent – UPD Bern mit mehr Patienten im Corona-Jahr ...](blob:https://stirring-seahorse-90ee56.netlify.app/e803bbbf-0f51-4e39-aa1f-13af1e75a96f)
-
-UPD in Bern
-
-Abbildung 3
+![UPD in Bern, Abbildung 3](blob:https://stirring-seahorse-90ee56.netlify.app/e803bbbf-0f51-4e39-aa1f-13af1e75a96f)
 
 Eine weitere von uns befragte Person schildert ähnliche Muster in dem klar überlasteten System der Psychiatrie, denn oftmals seien ihre Gefühle lediglich belächelt worden und sie fühlte sich von den für sie zuständigen Fachpersonen nicht ernst genommen. «Die Probleme werden manchmal nicht wirklich ernst genommen, ausser es kommt halt zu einem sehr kritischen Punkt», schildert Marie S.\[[2]](applewebdata://5D64C5DE-4F7B-4301-BD34-B916E5A1E8D9#_ftn2) Wir trafen Marie S. vor einem Kaffee mitten in der Berner Innenstadt, trotz des allgegenwärtigen Stadtlärms konnten wir ein schönes Gespräch mit ihr führen, bei welchem sie uns erst auf ihrem Leidensweg, später dann auf dem Weg der Besserung mitnahm und uns somit einen Einblick in ihre persönlichen Erfahrungen mit dem Umgang psychischer Krankheiten bot. So berichtet auch Marie S. von langen Wartezeiten, dies sei auch schon vor zehn Jahren, als sie sich erstmalig Hilfe holte, so gewesen, besonders in der Kinder- und Jugendpsychiatrie sei es schwierig an Plätze zu kommen, denn viele Psychotherapeuten sowie Psychiater und Psychiaterinnen würden oftmals nur Patienten und Patientinnen ab einem bestimmten Alter behandeln. Die Einschätzung, dass, wenn man einmal Teil des Systems sei, es immer einfacher werde neue Ansprechpersonen zu finden, teilt sie.
 
 Ausserdem erfahren wir von Marie S., dass sie mit der Hilfe, die ihr die Psychiatrie sowohl ambulant als auch stationär zur Verfügung, stellte grundsätzlich zufrieden ist, jedoch merkte auch sie die Überlastung und teils nicht oder nicht genügend ausgebildetes Personal: «Es war nicht immer alles perfekt und sie wussten nicht immer wie reagieren und handeln, aber im Grossen und Ganzen fand ich die Hilfe schon gut.» Ebenfalls erzählt sie uns, dass die Motivation des Personals für sie einen grossen Unterschied macht, so gäbe es Therapeuten und Therapeutinnen, die «ihrem Job wirklich leidenschaftlich nachgehen und einem auch wirklich helfen wollen» und solche, die «es nur als Job sehen und deswegen auch nicht wirklich mit den Patienten und Patientinnen interagieren und einfach da sind \[…] man spürt einen Unterschied, ob es jemand aus Hilfsbereitschaft macht oder es nur als Job sieht.» 
+
+
 
 ## Die Rolle der Schule
 
 «Ich glaube es ist halt sehr unterschiedlich, wie ich das auch aus meiner Perspektive erlebe. Ich glaube es gibt da sehr viele sehr bemühte Lehrkräfte aber grundsätzlich schon, aber das ist ja nicht nur die Schule, das ist ja auch die Gesellschaft, die das fordert und viele Eltern, die das fordern», so Dr. med. Verena Amrein-Zürcher auf die Frage, ob die Schule zu viel Druck auf die Jugendlichen ausübt. Diese Unterschiede werden von unseren beiden Betroffenen Laura K. und Marie S. bestätigt, denn Laura K. berichtet von sowohl unterstützenden wie aber auch von diskriminierenden Lehrpersonen. Sie erklärt, dass die meisten Lehrkräfte von ihr unterstützend seien und nicht noch mehr unnötigen Druck ausüben, jedoch Personen in höheren Positionen, wie zum Beispiel die Abteilungsleitung, machen viel Druck wegen Absenzen.
 
 «Wenn das die Schulleitung weiss, dann schaut sie auch, dass es den Schülern und Schülerinnen gut geht», meldet Marie S. zu diesem Punkt. Sie geht an ein anderes Gymnasium als Laura K. und macht dadurch auch eine andere Erfahrung, wie eben, dass die Schulleitung unterstützend sei und keinen zusätzlichen Druck ausübe.  
+
+
 
 ## Was nun?
 
