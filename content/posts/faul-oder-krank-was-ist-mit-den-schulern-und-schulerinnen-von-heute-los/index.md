@@ -83,6 +83,6 @@ Diese Aussagen stimmen mit der Einschätzung von Dr. med. Amrein-Zürcher übere
 
 - - -
 
-\[[1]](applewebdata://5D64C5DE-4F7B-4301-BD34-B916E5A1E8D9#_ftnref1) Name der Redaktion bekannt
+\[[1]] Name der Redaktion bekannt
 
-\[[2]](applewebdata://5D64C5DE-4F7B-4301-BD34-B916E5A1E8D9#_ftnref2) Name der Redaktion bekannt
+\[[2]] Name der Redaktion bekannt
