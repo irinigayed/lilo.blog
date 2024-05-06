@@ -36,9 +36,9 @@ Unicef-Schweiz berichtet, dass dies zudem Folgen auf das Suchtverhalten der Juge
 
 ![Dr. med. Verena Amrein-Zürcher, Abbildung 2](verenaamrein-zuercher_800x800_anders_stoos.jpg)
 
-«Es ist alles überlastet, ich habe täglich Anfragen, oft mehrere am Tag und ich kann vielleicht ein bis zwei Neuaufnahmen pro Monat nehmen, da kann man sich etwa vorstellen wie viele, dass da am Suchen sind.» 
+> «Es ist alles überlastet, ich habe täglich Anfragen, oft mehrere am Tag und ich kann vielleicht ein bis zwei Neuaufnahmen pro Monat nehmen, da kann man sich etwa vorstellen wie viele, dass da am Suchen sind.» 
 
-\-Dr. med. Verena Amrein-Zürcher
+*\-Dr. med. Verena Amrein-Zürcher*
 
 {{<box>}}
 
@@ -62,7 +62,7 @@ Das Bundesamt für Statistik schreibt, dass im Jahr 2021 die Zahl der stationär
 
 Wir fragen Laura K., was sie als Haupttreiber der steigenden psychisch erkrankten Jugendlichen sieht und auch sie sieht soziale Medien, Suchtmittel und Corona als Treiber, allerdings nimmt sie schlechte Familienverhältnisse als den grössten Problemfaktor war. Sie sagt, dass die Corona Lockdowns vielleicht auch etwas Gutes bewirkt haben, denn während dieser Zeit waren Jugendliche von den Problemen in der Familie so stark betroffen, was möglicherweise dazu führte, dass sich einige Hilfe holten, weil für sie eine Grenze überschritten wurde. 
 
-![UPD in Bern, Abbildung 3](blob:https://stirring-seahorse-90ee56.netlify.app/e803bbbf-0f51-4e39-aa1f-13af1e75a96f)
+![UPD in Bern, Abbildung 3]()
 
 Eine weitere von uns befragte Person schildert ähnliche Muster in dem klar überlasteten System der Psychiatrie, denn oftmals seien ihre Gefühle lediglich belächelt worden und sie fühlte sich von den für sie zuständigen Fachpersonen nicht ernst genommen. «Die Probleme werden manchmal nicht wirklich ernst genommen, ausser es kommt halt zu einem sehr kritischen Punkt», schildert Marie S.\[[2]] Wir trafen Marie S. vor einem Kaffee mitten in der Berner Innenstadt, trotz des allgegenwärtigen Stadtlärms konnten wir ein schönes Gespräch mit ihr führen, bei welchem sie uns erst auf ihrem Leidensweg, später dann auf dem Weg der Besserung mitnahm und uns somit einen Einblick in ihre persönlichen Erfahrungen mit dem Umgang psychischer Krankheiten bot. So berichtet auch Marie S. von langen Wartezeiten, dies sei auch schon vor zehn Jahren, als sie sich erstmalig Hilfe holte, so gewesen, besonders in der Kinder- und Jugendpsychiatrie sei es schwierig an Plätze zu kommen, denn viele Psychotherapeuten sowie Psychiater und Psychiaterinnen würden oftmals nur Patienten und Patientinnen ab einem bestimmten Alter behandeln. Die Einschätzung, dass, wenn man einmal Teil des Systems sei, es immer einfacher werde neue Ansprechpersonen zu finden, teilt sie.
 
