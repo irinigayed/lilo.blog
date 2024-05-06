@@ -19,9 +19,7 @@ Als wir mit ihr an ihrem Küchentisch ein Gespräch führen und die Stimmung seh
 
 Zudem entpuppte sich laut Unicef-Schweiz die Covid-Pandemie als möglicher Treiber zu schlechter psychischer Gesundheit. Laut Dr. med. Amrein-Zürcher habe die Pandemie «das Ganze noch beschleunigt», zwar habe man schon gesehen, dass die Zahlen damals hochgegangen seien, aber man könne den Anstieg der Erkrankungen nicht nur darauf zurückführen: «Jetzt kann man nicht einfach mehr sagen, ja es ist wegen Covid, das hat einen Peak gegeben, aber es hört nicht auf, sondern es geht einfach immer weiter und weiter nach oben», erläutert Dr. med. Amrein-Zürcher weiter. 
 
-![Ein Bild, das Text, Screenshot, Design enthält.
-
-Automatisch generierte Beschreibung](blob:https://stirring-seahorse-90ee56.netlify.app/601f3d8a-9dfc-4b06-b3a2-872bbe0607fc)
+![Abbildung 1](unicef_mental-health_pra-e2-95-a0-c3-aasi_de_012.webp)
 
 Abbildung 1
 
