@@ -7,6 +7,14 @@ tags = ["Deutsch", "Reportage"]
 description = ""
 footnotes = "**Quellen:**\n\n<https://www.unicef.ch/de/unsere-arbeit/schweiz-liechtenstein/psychische-gesundheit> (besucht am 3.4.24)\n\n<https://www.bfs.admin.ch/asset/de/23772011> (besucht am 3.4.24)\n\n<https://famkij.ch/verena-amrein-zuercher/> (besucht am 22.4.24)\n\n<https://www.upd.ch/de/ueber-uns/> (besucht am 22.4.24) \n\nInterview mit Frau Amrein-Zürcher (geführt am 26.3.24)\n\nInterview mit Laura K.* (geführt am 3.4.24)\n\nInterview mit Marie S.* (geführt am 5.4.24)\n\n**Abbildung 1** <https://www.unicef.ch/de/unsere-arbeit/schweiz-liechtenstein/psychische-gesundheit> (besucht am 18.04.24)\n\n**Abbildung 2** <https://famkij.ch/verena-amrein-zuercher/> (besucht am 18.04.24)\n\n**Abbildung 3** <https://www.bernerzeitung.ch/upd-bern-mit-mehr-patienten-im-corona-jahr-2020-630660220949> (besucht am 22.04.23)"
 +++
+{{<lead>}}
+
+## **Ist die psychische Gesundheit von Jugendlichen in der Schweiz in Gefahr? Psychologen und Psychologinnen in der Schweiz sind alarmiert. Was kann dagegen unternommen werden?**
+
+{{</lead>}}
+
+\
+\
 **Irini Gayed, Aline Bouquet**
 
 «Es ist schon manchmal Bedenken im Raum wie entwickeln sich diese jugendlichen Kinder dann weiter ins Erwachsenenalter. Wie gut kommen sie später klar?» so Dr. med. Verena Amrein-Zürcher, Fachärztin FMH für Kinder- und Jugendpsychiatrie und -psychotherapie, auf die Frage, wie sie die Zukunft der Betroffenen sieht, als wir sie in ihrem gemütlich eingerichteten Haus in einem ruhigen Quartier in Bern besuchen. Grund zu solch einer Aussage hat sie allemal, denn psychische Krankheiten entstehen oft im jungen Alter; viele Betroffene haben schlechte Kindheitserfahrungen gemacht. 
