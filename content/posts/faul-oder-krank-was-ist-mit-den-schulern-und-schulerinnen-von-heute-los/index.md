@@ -45,13 +45,13 @@ Die Fachärztin FMH für Kinder- und Jugendpsychiatrie und -psychotherapie Dr. 
 
 Laura K. erzählt uns weiter, dass sie gute sowie schlechte Erfahrungen gemacht habe. «Es kommt ganz darauf an, wo man gewesen ist.» Es gebe grosse Unterschiede zwischen beispielsweise verschiedenen Standorten der UPD, die Aussenstandorte seien besser als die auf dem UPD-Gelände in Bern.
 
+Bekannten, welche auf dem UPD-Gelände in Bern waren, habe Laura K. erfahren, dass es Momente gab, in denen Informationen nicht vertraulich behandelt wurden und zum Beispiel Eltern informiert wurden, welche nicht hätten informiert werden sollen. Auch war unsensibel und ungeschickt mit Patienten und Patientinnen umgegangen worden und aus Fachpersonenmangel und somit aus zeitlichem Stress stellte das Fachpersonal manchmal Fehldiagnosen auf. 
+
 {{<box>}}
 
 Die Universitären Psychiatrischen Dienste Bern (UPD) sind das Hauptzentrum für Psychiatrie und Psychotherapie im Kanton Bern. Sie bieten eine umfassende Palette psychiatrischer Versorgungen und dies an über 25 Standorten im ganzen Kanton Bern. Mit über 1'700 Mitarbeitenden decken sie die gesamte psychiatrische Versorgungskette ab, von der Früherkennung bis zur Rehabilitation und Wiedereingliederung. Jedes Jahr suchen über 12'000 Patienten und Patientinnen Unterstützung in ihren Angeboten.
 
 {{</box>}}
-
-Bekannten, welche auf dem UPD-Gelände in Bern waren, habe Laura K. erfahren, dass es Momente gab, in denen Informationen nicht vertraulich behandelt wurden und zum Beispiel Eltern informiert wurden, welche nicht hätten informiert werden sollen. Auch war unsensibel und ungeschickt mit Patienten und Patientinnen umgegangen worden und aus Fachpersonenmangel und somit aus zeitlichem Stress stellte das Fachpersonal manchmal Fehldiagnosen auf. 
 
 Zudem sieht sie ein Problem bei betreuten Wohnheimen, denn dort arbeiten sowohl Sozialarbeiter und Sozialarbeiterin als auch Psychologen und Psychologinnen und aus ihrer Erfahrung kommen die Sozialarbeiter und Sozialarbeiterinnen ihren Aufgaben nicht gerecht, nehmen Probleme nicht ernst oder werden teilweise sogar sexuell übergriffig. «Wenn man von zuhause weggeht und es dort nicht gut ist und man an einen Ort kommt, wo es nicht besser ist oder eher schlechter ist, dann ist das auf eine Art retraumatisierend», merkt Laura K. zu der Problematik an. Teilweise arbeiteten bei einem betreuten Wohnheim Mitarbeitende, welche ihre Ausbildung zum Sozialarbeiter oder zur Sozialarbeiterin noch nicht abgeschlossen hatten, denn ohne diese hatte es zu wenige Fachpersonen. 
 
