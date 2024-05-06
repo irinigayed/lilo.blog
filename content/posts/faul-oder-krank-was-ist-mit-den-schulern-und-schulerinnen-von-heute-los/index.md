@@ -21,15 +21,15 @@ Zudem entpuppte sich laut Unicef-Schweiz die Covid-Pandemie als möglicher Treib
 
 ![Abbildung 1](unicef_mental-health_pra-e2-95-a0-c3-aasi_de_012.webp)
 
-Abbildung 1
-
 Auch bei einer Studie der Unicef-Schweiz kamen weitere erschreckende Zahlen zum Vorschein, nämlich stellte sich heraus, dass von den 1097 Teilnehmenden aus der Schweiz und aus Liechtenstein im Alter zwischen 14 und 19 Jahren, 37 Prozent von psychischen Krankheiten betroffen sind. Von allen Befragten gaben 17 Prozent der Jugendlichen, welche Anzeichen von Angststörungen und/oder Depressionen aufweisen, an, versucht zu haben, sich das Leben zu nehmen, rund 48 Prozent davon haben mehrere Suizidversuche unternommen. Insgesamt gab jeder elfte aller Befragten an, versucht zu haben, sich das Leben zu nehmen.
 
 Unicef-Schweiz berichtet, dass dies zudem Folgen auf das Suchtverhalten der Jugendlichen hat, wie beispielsweise Rauchen, Alkohol- oder Cannabiskonsum.
 
 ## Die Situation ist prekär, besonders für Betroffene
 
-«Ich musste ein halbes Jahr warten, bis ich einen Platz bekommen habe», damit spricht die 18-jährige Laura K.\[[1]](applewebdata://5D64C5DE-4F7B-4301-BD34-B916E5A1E8D9#_ftn1) den Fachpersonenmangel und die langen Wartezeiten an. Sie berichtet weiter, dass sobald man im System drinnen sei, die Wartezeiten kürzer werden und man weitergereicht werde. Wir unterhalten uns mit ihr per Telefon, da ein Treffen nicht möglich war, trotzdem bekommen wir einen Eindruck über ihre Person, ihre Erfahrungen mit dem psychotherapeutischen System der Schweiz und ihrem Weg in diesem. Laura erscheint uns sehr hilfsbereit und offen. 
+«Ich musste ein halbes Jahr warten, bis ich einen Platz bekommen habe», damit spricht die 18-jährige Laura K.\[[1]] den Fachpersonenmangel und die langen Wartezeiten an. Sie berichtet weiter, dass sobald man im System drinnen sei, die Wartezeiten kürzer werden und man weitergereicht werde. Wir unterhalten uns mit ihr per Telefon, da ein Treffen nicht möglich war, trotzdem bekommen wir einen Eindruck über ihre Person, ihre Erfahrungen mit dem psychotherapeutischen System der Schweiz und ihrem Weg in diesem. Laura erscheint uns sehr hilfsbereit und offen. 
+
+![Dr. med. Verena Amrein-Zürcher, Abbildung 2](verenaamrein-zuercher_800x800_anders_stoos.jpg)
 
 ![Verena Amrein-Zürcher – famkij](blob:https://stirring-seahorse-90ee56.netlify.app/02cb1221-9e07-4daa-b661-d3920fd5d13c)![Textfeld: Dr. med. Verena Amrein-Zürcher
 Abbildung 2
