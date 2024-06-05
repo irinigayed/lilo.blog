@@ -18,8 +18,6 @@ footnotes = "**Quellen:**\n\n<https://www.unicef.ch/de/unsere-arbeit/schweiz-lie
 
 Als wir mit ihr an ihrem Küchentisch ein Gespräch führen und die Stimmung sehr angenehm ist, erklärt sie uns ebenfalls, dass es schwierig sei, diese Problematik auf einen Grund zurückzuführen, denn es sei ein Zusammenspiel von vielen Faktoren wie beispielsweise soziale Medien, gesellschaftlicher Leistungsdruck oder Mobbing. Dies bestätigt auch eine Studie von Unicef-Schweiz, in welcher es heisst: «Die grössten Risikofaktoren, welche die Studie in der Schweiz und Liechtenstein identifizieren konnte, sind schwierige Familienverhältnisse, ein tiefer sozioökonomischer Status, schlechte Kindheitserfahrungen sowie chronische Leiden».
 
-
-
 ## Zusammenhang mit der Covid-Pandemie
 
 Zudem entpuppte sich laut Unicef-Schweiz die Covid-Pandemie als möglicher Treiber zu schlechter psychischer Gesundheit. Laut Dr. med. Amrein-Zürcher habe die Pandemie «das Ganze noch beschleunigt», zwar habe man schon gesehen, dass die Zahlen damals hochgegangen seien, aber man könne den Anstieg der Erkrankungen nicht nur darauf zurückführen: «Jetzt kann man nicht einfach mehr sagen, ja es ist wegen Covid, das hat einen Peak gegeben, aber es hört nicht auf, sondern es geht einfach immer weiter und weiter nach oben», erläutert Dr. med. Amrein-Zürcher weiter. 
@@ -34,7 +32,7 @@ Unicef-Schweiz berichtet, dass dies zudem Folgen auf das Suchtverhalten der Juge
 
 «Ich musste ein halbes Jahr warten, bis ich einen Platz bekommen habe», damit spricht die 18-jährige Laura K.\[[1]] den Fachpersonenmangel und die langen Wartezeiten an. Sie berichtet weiter, dass sobald man im System drinnen sei, die Wartezeiten kürzer werden und man weitergereicht werde. Wir unterhalten uns mit ihr per Telefon, da ein Treffen nicht möglich war, trotzdem bekommen wir einen Eindruck über ihre Person, ihre Erfahrungen mit dem psychotherapeutischen System der Schweiz und ihrem Weg in diesem. Laura erscheint uns sehr hilfsbereit und offen. 
 
-![Dr. med. Verena Amrein-Zürcher, Abbildung 2](verenaamrein-zuercher_800x800_anders_stoos.jpg)
+![Dr. med. Verena Amrein-Zürcher, Abbildung 2](unknown.jpeg)
 
 > «Es ist alles überlastet, ich habe täglich Anfragen, oft mehrere am Tag und ich kann vielleicht ein bis zwei Neuaufnahmen pro Monat nehmen, da kann man sich etwa vorstellen wie viele, dass da am Suchen sind.» 
 
