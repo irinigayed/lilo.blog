@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Irini Gayed"
-image = "/img/default-author.jpg"
+image = "/media/img_1043.jpeg"
 url = "/about/"
 +++
