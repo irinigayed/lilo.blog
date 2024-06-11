@@ -4,6 +4,7 @@ date = "2024-05-08"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
+image = "microsoftteams-image.png"
 description = ""
 footnotes = "**Quellen:**\n\n<https://www.unicef.ch/de/unsere-arbeit/schweiz-liechtenstein/psychische-gesundheit> (besucht am 3.4.24)\n\n<https://www.bfs.admin.ch/asset/de/23772011> (besucht am 3.4.24)\n\n<https://famkij.ch/verena-amrein-zuercher/> (besucht am 22.4.24)\n\n<https://www.upd.ch/de/ueber-uns/> (besucht am 22.4.24) \n\nInterview mit Frau Amrein-Zürcher (geführt am 26.3.24)\n\nInterview mit Laura K.* (geführt am 3.4.24)\n\nInterview mit Marie S.* (geführt am 5.4.24)\n\n**Abbildung 1** <https://www.unicef.ch/de/unsere-arbeit/schweiz-liechtenstein/psychische-gesundheit> (besucht am 18.04.24)\n\n**Abbildung 2** <https://famkij.ch/verena-amrein-zuercher/> (besucht am 18.04.24)\n\n**Abbildung 3** <https://www.bernerzeitung.ch/upd-bern-mit-mehr-patienten-im-corona-jahr-2020-630660220949> (besucht am 22.04.23)"
 +++
