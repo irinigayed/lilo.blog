@@ -10,7 +10,7 @@ footnotes = "**Quellen:**\n\n<https://www.unicef.ch/de/unsere-arbeit/schweiz-lie
 +++
 {{<lead>}}
 
-## **Ist die psychische Gesundheit von Jugendlichen in der Schweiz in Gefahr? Psychologen und Psychologinnen in der Schweiz sind alarmiert. Was kann dagegen unternommen werden?**
+Ist die psychische Gesundheit von Jugendlichen in der Schweiz in Gefahr? Psychologen und Psychologinnen in der Schweiz sind alarmiert. Was kann dagegen unternommen werden?
 
 {{</lead>}}\
 **Irini Gayed, Aline Bouquet**
